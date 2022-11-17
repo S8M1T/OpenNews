@@ -1,0 +1,4 @@
+#Wed Nov 16 19:55:49 IST 2022
+base.0=C\:\\Users\\sumit\\AndroidStudioProjects\\NEWSAPPLICATION\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

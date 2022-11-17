@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.learningproject.newsapplication.app-mergeReleaseResources-40:/layout/activity_news_detail.xml",
+        "source": "com.learningproject.newsapplication.app-main-42:/layout/activity_news_detail.xml"
+    },
+    {
+        "merged": "com.learningproject.newsapplication.app-mergeReleaseResources-40:/layout/news_items.xml",
+        "source": "com.learningproject.newsapplication.app-main-42:/layout/news_items.xml"
+    },
+    {
+        "merged": "com.learningproject.newsapplication.app-mergeReleaseResources-40:/layout/categories_items.xml",
+        "source": "com.learningproject.newsapplication.app-main-42:/layout/categories_items.xml"
+    },
+    {
+        "merged": "com.learningproject.newsapplication.app-mergeReleaseResources-40:/layout/activity_splash_screen.xml",
+        "source": "com.learningproject.newsapplication.app-main-42:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.learningproject.newsapplication.app-mergeReleaseResources-40:/layout/activity_main.xml",
+        "source": "com.learningproject.newsapplication.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.learningproject.newsapplication.app-mergeReleaseResources-40:/layout/activity_about_page.xml",
+        "source": "com.learningproject.newsapplication.app-main-42:/layout/activity_about_page.xml"
+    }
+]

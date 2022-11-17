@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\layout_categories_items.xml.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\layout\\categories_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\drawable_news.png.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\drawable\\news.png"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\anim_zoom_animation.xml.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\anim\\zoom_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.learningproject.newsapplication.app-merged_res-41:/layout_activity_main.xml.flat",
+        "source": "com.learningproject.newsapplication.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\drawable_info.png.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\drawable\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\drawable_rounded_button.xml.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\anim_bottomviews_animation.xml.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\anim\\bottomviews_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\drawable_rounded_corner.xml.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-pngs-36:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\layout_news_items.xml.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\layout\\news_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\layout_activity_news_detail.xml.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\layout\\activity_news_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\layout_activity_about_page.xml.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\layout\\activity_about_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\anim_topviews_animation.xml.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\anim\\topviews_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]

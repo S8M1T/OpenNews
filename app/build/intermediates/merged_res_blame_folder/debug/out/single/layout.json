@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-mergeDebugResources-40:\\layout\\activity_about_page.xml",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\layout\\activity_about_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-mergeDebugResources-40:\\layout\\news_items.xml",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\layout\\news_items.xml"
+    },
+    {
+        "merged": "com.learningproject.newsapplication.app-mergeDebugResources-40:/layout/activity_main.xml",
+        "source": "com.learningproject.newsapplication.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-mergeDebugResources-40:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-mergeDebugResources-40:\\layout\\activity_news_detail.xml",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\layout\\activity_news_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-mergeDebugResources-40:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-mergeDebugResources-40:\\layout\\categories_items.xml",
+        "source": "C:\\Users\\sumit\\.gradle\\daemon\\7.3.3\\com.learningproject.newsapplication.app-main-43:\\layout\\categories_items.xml"
+    }
+]
